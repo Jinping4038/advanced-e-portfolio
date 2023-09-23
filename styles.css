@@ -698,6 +698,9 @@ footer {
   left: 80vw;
 }
 
+.project-anchor{
+  color: white;
+}
 /* 
     Mobile devices and Tablets
  */
@@ -768,11 +771,11 @@ footer {
 /* Small Phones */
 @media (max-width: 500px) {
   .title {
-    font-size: 52px;
+    font-size: 40px;
   }
 
   .header__para {
-    font-size: 18px;
+    font-size: 14px;
   }
 
   .nav__link:first-child {
